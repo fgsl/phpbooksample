@@ -1,2 +1,2 @@
 # phpbooksample
-Código-fonte do livro Programação Web Avançada com PHP, da Casa do Código
+Código-fonte do livro _Programação Web Avançada com PHP_, da Casa do Código
